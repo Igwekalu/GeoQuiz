@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="nope">Beginning of the list!</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct_toast">correct!</string>
+    <string name="incorrect_toast">incorrect!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="question_size">Quincy is the biggest city in Boston</string>
+    <string name="question_transportation">The Massachusetts Bay of Transportation Association is
+    name of the public transportation</string>
+    <string name="question_snow">Winter 2012, Boston set the snowfall record</string>
+    <string name="question_teams">Boston has 6 main sports teams</string>
+    <string name="question_champs">Boston is known as title town</string>
+    <string name="question_drivers">Boston has the best drivers</string>
+    <string name="question_parades">Boston has had 9 sports champs parades in 13 years </string>
+    <string name="question_opinion">Boston is the best city in the world</string>
+</resources>
